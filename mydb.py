@@ -14,4 +14,4 @@ cursorObject = dataBase.cursor()
 
 cursorObject.execute("CREATE DATABASE `Defense project`")
 
-print("All Done!") 
+print("All Done!")
