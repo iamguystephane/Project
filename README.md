@@ -1,3 +1,4 @@
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -31,7 +32,7 @@
 
 This is the first portfolio project and it tests more on Git, GitHub, GitHub Workflow and Linters.
 
-*[Portfolio]* is an HTML CSS project
+*[This CRM project]* is an HTML CSS project
 
 ## 🛠 Built With <a name="built-with"></a>
 
